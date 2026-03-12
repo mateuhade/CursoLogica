@@ -1,27 +1,12 @@
-Algoritmo "teste_vetores"
-
-
+Algoritmo "teste"
 
 Var
 
-Vet: vetor [0..10] de real
-N, i: inteiro
+uau <- real
 
 Inicio
 
-escreva("Quantos números você vai digitar? ")
-leia(N)
+uau <- 0 / 0
 
-para i de 0 ate N-1 faca
-    escreva("Digite um número: ")
-    leia(Vet[i])
-fimpara
-
-escreval()
-escreval("NUMEROS DIGITADOS: ")
-
-para i de 0 ate N-1 faca
-     escreval(Vet[i])
-fimpara
 
 Fimalgoritmo

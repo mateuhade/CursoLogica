@@ -20,7 +20,7 @@ para i de 0 ate (qnt - 1) faca
      leia(idade[i])
 fimpara
 
-maior <- 0
+maior <- ""
 para i de 0 ate (qnt - 1) faca
      se i = 0 entao
      senao
