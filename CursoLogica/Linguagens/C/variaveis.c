@@ -17,7 +17,7 @@ int main() {   // todos os códigos em C devem ter essa linha, a "main" diz o que
 
     y = 10.321654364;
 
-    printf("%f\n", y);
+    printf("%lf\n", y);
 
     // ------------------------------
 
