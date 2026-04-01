@@ -1,2 +1,4 @@
 .idea/
 CursoLogica/Linguagens/Python/Atividades/__pycache__/
+*.exe
+*.o
