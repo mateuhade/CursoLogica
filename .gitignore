@@ -1,4 +1,15 @@
+# Diretório das IDE's
 .idea/
+
+# Arquivos descartáveis de lógica
 CursoLogica/Linguagens/Python/Atividades/__pycache__/
+CursoLogica/Linguagens/C/debugger/bin
+CursoLogica/Linguagens/C/debugger/obj
+
+# Diretório de Python
+CursoPython/venv
+
+# Formatos de arquivos temporários/compilados
 *.exe
 *.o
+*.depend
