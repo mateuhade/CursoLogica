@@ -6,6 +6,7 @@ CursoLogica/Linguagens/.metadata
 # Arquivos descartáveis de lógica
 CursoLogica/Linguagens/Python/Atividades/__pycache__
 CursoLogica/Linguagens/Java/.settings
+**/.vs/
 **/bin/
 **/obj/
 
