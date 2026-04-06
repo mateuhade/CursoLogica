@@ -1,3 +1,5 @@
+# Curso de Lógica de Programação
+
 Estas são minhas anotações do curso Algorítmos e Lógica de Programação do professor Nélio Alves na Udemy.
 
 O curso de 31 horas aborda conceitos básicos de programação como variáveis, tipos de dados, operadores aritméticos, operadores comparativos, operadores lógicos, saída de dados, entrada de dados, estruturas
